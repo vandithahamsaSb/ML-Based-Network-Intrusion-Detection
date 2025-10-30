@@ -94,5 +94,5 @@ Model and preprocessing files are saved in Artifacts/final_model/.
 Predicted outputs can be stored in Artifacts/prediction_output/.
 
 Contribution
-This repository is maintained solely by Vanditha Hamsa S.B. All commits and contributions are under her account.
+This repository is maintained solely by Vanditha Hamsa S.B.
 
